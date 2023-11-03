@@ -1,2 +1,2 @@
 # Dynamic-sign-in-and-login-web-page-
-I've created a dynamic sign-in and login web page with interactive buttons and sound effects that play when switching between these pages.
+I've created a dynamic sign-in and login web page with interactive buttons and sound effects that play when switching between these pages.The web page features a user-friendly design, offering both sign-up and login functionalities. The buttons seamlessly transition between these two forms, providing a dynamic and engaging user experience. Additionally, the project incorporates sound effects to enhance the visual transitions. This project serves as a creative and interactive solution for user authentication, making it engaging and enjoyable for visitors
